@@ -1,3 +1,7 @@
 {
-  "projects": {}
+  "projects": {
+    "userService": "https://github.com/robertzhangwenjie/userService.git",
+    "graphqlService": "https://github.com/robertzhangwenjie/graphqlService.git",
+    "appService": "https://github.com/robertzhangwenjie/appService.git"
+  }
 }
